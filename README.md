@@ -196,6 +196,10 @@ See `requirements.txt`:
 - requests
 - google-cloud-storage (for state persistence)
 
+## 👥 Contributors
+
+- **Rohit Swami** - Author & Maintainer ([@RohitSwami33](https://github.com/RohitSwami33))
+
 ## 🤝 Contributing
 
 1. Fork the repository
